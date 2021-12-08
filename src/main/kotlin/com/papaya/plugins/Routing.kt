@@ -10,8 +10,5 @@ fun Application.configureRouting() {
         get("/") {
                 call.respondText("Hello World!!")
         }
-        get("/users") {
-            call.respondText("meu deus, mentirsss?")
-        }
     }
 }
