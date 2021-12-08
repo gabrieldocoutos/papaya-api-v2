@@ -1,8 +1,6 @@
-package com.example
+package com.papaya
 
-import io.ktor.server.engine.*
-import io.ktor.server.netty.*
-import com.example.plugins.*
+import com.papaya.plugins.*
 import io.ktor.application.*
 
 
